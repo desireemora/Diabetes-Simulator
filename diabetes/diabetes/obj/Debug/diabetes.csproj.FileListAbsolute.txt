@@ -1,0 +1,14 @@
+c:\users\desir\documents\visual studio 2015\Projects\diabetes\diabetes\bin\Debug\diabetes.exe.config
+c:\users\desir\documents\visual studio 2015\Projects\diabetes\diabetes\bin\Debug\diabetes.exe
+c:\users\desir\documents\visual studio 2015\Projects\diabetes\diabetes\bin\Debug\diabetes.pdb
+c:\users\desir\documents\visual studio 2015\Projects\diabetes\diabetes\obj\Debug\diabetes.csprojResolveAssemblyReference.cache
+c:\users\desir\documents\visual studio 2015\Projects\diabetes\diabetes\obj\Debug\diabetes.Form1.resources
+c:\users\desir\documents\visual studio 2015\Projects\diabetes\diabetes\obj\Debug\diabetes.Properties.Resources.resources
+c:\users\desir\documents\visual studio 2015\Projects\diabetes\diabetes\obj\Debug\diabetes.csproj.GenerateResource.Cache
+c:\users\desir\documents\visual studio 2015\Projects\diabetes\diabetes\obj\Debug\diabetes.exe
+c:\users\desir\documents\visual studio 2015\Projects\diabetes\diabetes\obj\Debug\diabetes.pdb
+c:\users\desir\documents\visual studio 2015\Projects\diabetes\diabetes\obj\Debug\diabetes.Form2.resources
+C:\Users\desir\documents\visual studio 2015\Projects\diabetes\diabetes\obj\Debug\diabetes.Form3.resources
+C:\Users\desir\documents\visual studio 2015\Projects\diabetes\diabetes\obj\Debug\diabetes.Form4.resources
+C:\Users\desir\documents\visual studio 2015\Projects\diabetes\diabetes\obj\Debug\diabetes.Form5.resources
+C:\Users\desir\documents\visual studio 2015\Projects\diabetes\diabetes\obj\Debug\diabetes.Form6.resources

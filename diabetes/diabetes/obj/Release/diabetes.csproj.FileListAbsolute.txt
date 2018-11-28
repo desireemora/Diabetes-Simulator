@@ -1,0 +1,13 @@
+C:\Users\desir\documents\visual studio 2015\Projects\diabetes\diabetes\bin\Release\diabetes.exe.config
+C:\Users\desir\documents\visual studio 2015\Projects\diabetes\diabetes\bin\Release\diabetes.exe
+C:\Users\desir\documents\visual studio 2015\Projects\diabetes\diabetes\bin\Release\diabetes.pdb
+C:\Users\desir\documents\visual studio 2015\Projects\diabetes\diabetes\obj\Release\diabetes.Form1.resources
+C:\Users\desir\documents\visual studio 2015\Projects\diabetes\diabetes\obj\Release\diabetes.Form2.resources
+C:\Users\desir\documents\visual studio 2015\Projects\diabetes\diabetes\obj\Release\diabetes.Form3.resources
+C:\Users\desir\documents\visual studio 2015\Projects\diabetes\diabetes\obj\Release\diabetes.Form4.resources
+C:\Users\desir\documents\visual studio 2015\Projects\diabetes\diabetes\obj\Release\diabetes.Form5.resources
+C:\Users\desir\documents\visual studio 2015\Projects\diabetes\diabetes\obj\Release\diabetes.Form6.resources
+C:\Users\desir\documents\visual studio 2015\Projects\diabetes\diabetes\obj\Release\diabetes.Properties.Resources.resources
+C:\Users\desir\documents\visual studio 2015\Projects\diabetes\diabetes\obj\Release\diabetes.csproj.GenerateResource.Cache
+C:\Users\desir\documents\visual studio 2015\Projects\diabetes\diabetes\obj\Release\diabetes.exe
+C:\Users\desir\documents\visual studio 2015\Projects\diabetes\diabetes\obj\Release\diabetes.pdb

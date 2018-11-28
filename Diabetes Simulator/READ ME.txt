@@ -1,0 +1,20 @@
+Welcome!
+
+The simulation is simple: Eat, do some activities, and give yourself insulin. Keep an eye on your wallet and blood glucose levels (bgl)!
+
+After opening the application and getting to the second form, open the question bubble on the upper right corner.
+This help page will tell you how much insulin to administer when you eat or when your sugar is just too high.
+
+Easy tips:
+
+-Sugar is high - give insulin 
+-Sugar Low - Drink or eat
+-After 24 activies, you will get a paycheck (based on your income)
+
+Be Aware:
+If you eat too much or too little your wellness will decrease.
+If you don't participate in any activities your wellness will decrease.
+
+Some activities will cost money, make you hungry, or increase your bgl.
+
+Thanks for taking the time to try this out!
